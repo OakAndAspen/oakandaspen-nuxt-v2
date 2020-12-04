@@ -1,0 +1,17 @@
+a {
+    color: rgb(var(--sede-navy));
+}
+
+a:hover {
+    color: rgb(var(--sede-blue));
+    text-decoration: none;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.page-wrapper {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}

@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "Titillium Web";
+    src: url("../fonts/TitilliumWeb-Regular.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Titillium Web";
+    src: url("../fonts/TitilliumWeb-Italic.ttf");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Titillium Web";
+    src: url("../fonts/TitilliumWeb-SemiBold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Pompiere";
+    src: url("../fonts/Pompiere-Regular.ttf");
+}
+
+#App {
+    font-family: "Titillium Web", sans-serif;
+}
+
+.display-font {
+    font-family: "Pompiere", sans-serif;
+}
+
+.small-caps, main h1, main h2, main h3, main h4 {
+    font-variant: all-small-caps;
+}
+
+.display-1 {
+    font-size: 3em;
+}
+
+.display-2 {
+    font-size: 2.5em;
+}
+
+.display-3 {
+    font-size: 2em;
+}
+
+.display-4 {
+    font-size: 1.5em;
+}

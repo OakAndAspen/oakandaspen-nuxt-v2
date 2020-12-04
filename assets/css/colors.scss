@@ -1,0 +1,65 @@
+:root {
+    --sede-white: 255,255,255;
+    --sede-light: 223,220,220;
+    --sede-gray: 177,178,179;
+    --sede-dark: 51,51,51;
+    --sede-navy: 32,88,126;
+    --sede-blue: 153,209,255;
+    --sede-green: 134,156,62;
+}
+
+.t-white {
+    color: rgb(var(--sede-white));
+}
+
+.b-white {
+    background-color: rgb(var(--sede-white));
+}
+
+.t-light {
+    color: rgb(var(--sede-light));
+}
+
+.b-light {
+    background-color: rgb(var(--sede-light));
+}
+
+.t-gray {
+    color: rgb(var(--sede-gray));
+}
+
+.b-gray {
+    background-color: rgb(var(--sede-gray));
+}
+
+.t-dark {
+    color: rgb(var(--sede-dark));
+}
+
+.b-dark {
+    background-color: rgb(var(--sede-dark));
+}
+
+.t-navy {
+    color: rgb(var(--sede-navy));
+}
+
+.b-navy {
+    background-color: rgb(var(--sede-navy));
+}
+
+.t-blue {
+    color: rgb(var(--sede-blue));
+}
+
+.b-blue {
+    background-color: rgb(var(--sede-blue));
+}
+
+.t-green {
+    color: rgb(var(--sede-green));
+}
+
+.b-green {
+    background-color: rgb(var(--sede-green));
+}
